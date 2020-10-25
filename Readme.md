@@ -24,7 +24,7 @@ For prediction, I’m using the openCV library and Haar-cascades face-detection.
 detecting the face in the image. After detecting the face in the image it crops the face part
 sends to the face mask detection model for prediction.
 
-<h3>Predictions on Downloaded Images</h3>
+<h3>Predictions on Random Images</h3>
 
 <img src="output1.png">
 <img src="output2.png">
