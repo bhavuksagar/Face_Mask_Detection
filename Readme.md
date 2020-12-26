@@ -1,4 +1,5 @@
 <h1>Face Mask Detection </h1>
+Real time face mask detection
 <h2>Using Transfer Learning</h2>
 
 <h3>Introduction </h3>
