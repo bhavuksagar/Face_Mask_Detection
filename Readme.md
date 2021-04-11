@@ -17,6 +17,7 @@ Dataset Link:- https://www.kaggle.com/ashishjangra27/face-mask-12k-images-datase
 For training I’m using the VGG16 model. Model contains a total 20 layers in which 13 are
 Convolutional, 1 is flatten , 1 Dense and 5 Maxpooling layers are present. Accuracy on test
 data is 99.7%. Model trained for only 5 epochs.
+<br>
 
 <img src="accuracy.png">
 
